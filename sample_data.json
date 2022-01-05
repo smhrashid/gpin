@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "memid": "9096007289-2",
+            "memname": "EMON 1",
+            "emp_id": "7289",
+            "dob": "2015-07-21T00:00:00",
+            "gender": "M",
+            "relation": "D",
+            "status": "D",
+            "created": "10-01-2018",
+            "email_address": "benzamin.basher@grameenphone.com",
+            "mobile_number": "+8801711091549",
+            "effective_date": "11-13-2016",
+            "marital_status": "S",
+            "age": 48
+        },
+        {
+            "id": 3,
+            "memid": "9096007289-1",
+            "memname": "KAZI AMENA BEGUM",
+            "emp_id": "7289",
+            "dob": "1987-02-15T00:00:00",
+            "gender": "F",
+            "relation": "D",
+            "status": "D",
+            "created": "10-01-2018",
+            "email_address": "benzamin.basher@grameenphone.com",
+            "mobile_number": "+8801711091549",
+            "effective_date": "11-13-2016",
+            "marital_status": "M",
+            "age": 48
+        },
+        {
+            "id": 11,
+            "memid": "9096006928-8",
+            "memname": "LATE BASHIR ULLAH",
+            "emp_id": "6928",
+            "dob": "1955-01-01T00:00:00",
+            "gender": "M",
+            "relation": "D",
+            "status": "D",
+            "created": "10-01-2018",
+            "email_address": "bfkabir@grameenphone.com",
+            "mobile_number": "+8801711083141",
+            "effective_date": "04-01-2015",
+            "marital_status": "M",
+            "age": 63
+        },
+        {
+            "id": 12,
+            "memid": "9096006928-1",
+            "memname": "TANIA SHARMIN",
+            "emp_id": "6928",
+            "dob": "1985-06-04T00:00:00",
+            "gender": "F",
+            "relation": "D",
+            "status": "D",
+            "created": "10-01-2018",
+            "email_address": "bfkabir@grameenphone.com",
+            "mobile_number": "+8801711083141",
+            "effective_date": "04-01-2015",
+            "marital_status": "M",
+            "age": 33
+        },
+        {
+            "id": 25,
+            "memid": "9096006928-9",
+            "memname": "MRS. MAKSUDA BEGUM",
+            "emp_id": "6928",
+            "dob": "1965-01-01T00:00:00",
+            "gender": "F",
+            "relation": "D",
+            "status": "D",
+            "created": "10-01-2018",
+            "email_address": "bfkabir@grameenphone.com",
+            "mobile_number": "+8801711083141",
+            "effective_date": "04-01-2015",
+            "marital_status": "M",
+            "age": 53
+        }
+    ],
+    "pagination": {
+        "page_count": 1,
+        "current_page": 1,
+        "has_next_page": false,
+        "has_prev_page": false,
+        "count": 5,
+        "limit": null
+    }
+}    
